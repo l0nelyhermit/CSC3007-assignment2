@@ -1,0 +1,23 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#main-wrapper {
+  height: 100vh !important;
+}
+.header-title {
+  display: flex;
+  justify-content: center;
+}
+
+#chart-area {
+  padding-top: 50px;
+}
+
+.card-title {
+  margin-bottom: 20px !important;
+}
+#projected-btn {
+  margin-top: 20px;
+}
